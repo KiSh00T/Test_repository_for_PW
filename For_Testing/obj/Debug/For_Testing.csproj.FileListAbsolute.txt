@@ -1,0 +1,10 @@
+O:\330 Gruppe\#ПМ_06\19.05\Коротченко\For_Testing\For_Testing\bin\Debug\For_Testing.exe.config
+O:\330 Gruppe\#ПМ_06\19.05\Коротченко\For_Testing\For_Testing\bin\Debug\For_Testing.exe
+O:\330 Gruppe\#ПМ_06\19.05\Коротченко\For_Testing\For_Testing\bin\Debug\For_Testing.pdb
+O:\330 Gruppe\#ПМ_06\19.05\Коротченко\For_Testing\For_Testing\obj\Debug\For_Testing.csprojAssemblyReference.cache
+O:\330 Gruppe\#ПМ_06\19.05\Коротченко\For_Testing\For_Testing\obj\Debug\For_Testing.TxtRedactorForm.resources
+O:\330 Gruppe\#ПМ_06\19.05\Коротченко\For_Testing\For_Testing\obj\Debug\For_Testing.Properties.Resources.resources
+O:\330 Gruppe\#ПМ_06\19.05\Коротченко\For_Testing\For_Testing\obj\Debug\For_Testing.csproj.GenerateResource.cache
+O:\330 Gruppe\#ПМ_06\19.05\Коротченко\For_Testing\For_Testing\obj\Debug\For_Testing.csproj.CoreCompileInputs.cache
+O:\330 Gruppe\#ПМ_06\19.05\Коротченко\For_Testing\For_Testing\obj\Debug\For_Testing.exe
+O:\330 Gruppe\#ПМ_06\19.05\Коротченко\For_Testing\For_Testing\obj\Debug\For_Testing.pdb
